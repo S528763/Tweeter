@@ -9,10 +9,13 @@ My application is 'KafkaSTPMyProducer'
 Steps to run:
 1. Run Zookeeper server
 'zkServer'
+
 2. Run Kafka server
 .\bin\windows\kafka-server-start.bat .\config\server.properties
+
 3. Create the KafkaAPIClient Executable Jar
 mvn clean compile assembly:single
+
 4. Start the Default consumer and producer apps.
 5. Type any content in producer and verify it in consumer command window.
 6. Run your custom producer linked with run.properties
