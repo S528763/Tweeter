@@ -1,6 +1,6 @@
 # H08 - Java Kafka
 
-# Customized Kafka-Enabled App
+# 'Tweeter' - Customized Kafka-Enabled App
 
 # S528763 - Aditya Srimat Tirumala Pallerlamudi
 
