@@ -4,7 +4,7 @@
 
 # S528763 - Aditya Srimat Tirumala Pallerlamudi
 
-My application is 'KafkaSTPMyProducer'
+My application is 'Tweeter'
 
 Steps to run:
 1. Run Zookeeper server
